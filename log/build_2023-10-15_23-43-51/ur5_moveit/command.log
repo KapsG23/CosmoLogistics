@@ -1,0 +1,6 @@
+Invoking command in '/home/kshitij/colcon_ws/build/ur5_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kshitij/colcon_ws/src/ur5_moveit -DCMAKE_INSTALL_PREFIX=/home/kshitij/colcon_ws/install/ur5_moveit
+Invoked command in '/home/kshitij/colcon_ws/build/ur5_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kshitij/colcon_ws/src/ur5_moveit -DCMAKE_INSTALL_PREFIX=/home/kshitij/colcon_ws/install/ur5_moveit
+Invoking command in '/home/kshitij/colcon_ws/build/ur5_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kshitij/colcon_ws/build/ur5_moveit -- -j16 -l16
+Invoked command in '/home/kshitij/colcon_ws/build/ur5_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kshitij/colcon_ws/build/ur5_moveit -- -j16 -l16
+Invoking command in '/home/kshitij/colcon_ws/build/ur5_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kshitij/colcon_ws/build/ur5_moveit
+Invoked command in '/home/kshitij/colcon_ws/build/ur5_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kshitij/colcon_ws/build/ur5_moveit

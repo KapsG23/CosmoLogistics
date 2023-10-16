@@ -1,0 +1,4 @@
+Invoking command in '/home/kshitij/colcon_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kshitij/colcon_ws/build/realsense_gazebo_plugin -- -j16 -l16
+Invoked command in '/home/kshitij/colcon_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kshitij/colcon_ws/build/realsense_gazebo_plugin -- -j16 -l16
+Invoking command in '/home/kshitij/colcon_ws/build/realsense_gazebo_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kshitij/colcon_ws/build/realsense_gazebo_plugin
+Invoked command in '/home/kshitij/colcon_ws/build/realsense_gazebo_plugin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kshitij/colcon_ws/build/realsense_gazebo_plugin
